@@ -89,11 +89,11 @@ def single_game(cur_player):
 
 if __name__ == "__main__":
 
-    print("Player 1")
+    print("Игрок 1")
     player1 = input("Введите имя : ")
     print("\n")
 
-    print("Player 2")
+    print("Игрок 2")
     player2 = input("Введите имя: ")
     print("\n")
 
